@@ -1,12 +1,4 @@
 webhook-test
 ============
 
-3rd time
- another one
-
-yeah
-a
-
-new update
-
-w
+A repository to test webhooks. Go crazy!

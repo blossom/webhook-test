@@ -1,4 +1,4 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
-print "This is real Python!"
+print 'This is real Python!'

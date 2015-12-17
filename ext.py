@@ -7,3 +7,4 @@ def debug():
 if __name__ == '__main__':
     print 'Debug #0'
     debug()
+    print 'Debug #2'
